@@ -62,6 +62,9 @@ User → NutriCart AI → AI Recommendation Engine → Grocery Optimization → 
 
 ![Landing Page](landing-page.png)
 
+## Figma Prototype
+https://www.figma.com/design/Ld2u7b6hfJILyFcGFCbyV2/Untitled?node-id=0-1&t=BFhaMzrbCxsNb0bv-1
+Still in progress working on that
 ---
 
 ## Future Scope
